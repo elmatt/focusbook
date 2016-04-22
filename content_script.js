@@ -6,6 +6,7 @@ const SNOOZES = [
   "leave me alone", 
   'go bother someone else',
   'five more minutes',
+  'I will continue to waste my life',
 ]
 
 const QUESTIONS = [
@@ -14,6 +15,7 @@ const QUESTIONS = [
   "WHY?? What do you need to do that's so important?",
   "Really...what's so important?",
   "Fine, just tell me why you needed to open facebook",
+  "Do you not see how nice it is outside?"
 ]
 
 var app = {
